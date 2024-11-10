@@ -1,0 +1,9 @@
+# https://helm.sh/docs/topics/charts/#the-chartyaml-file
+apiVersion: v2
+name: app-wordpress
+description: A Helm chart for deploying WordPress
+version: 0.1.0
+appVersion: "0.1.0"
+maintainers:
+  - name: Ivan Sigaev
+    url: https://github.com/woodo01
